@@ -1,0 +1,403 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*    Telegram: https://t.me/REDLINESUPPORT    *
+***********************************************
+
+Name: username
+Value: elmaxi152
+===============
+Name: documentNumber
+Value: 25991580
+===============
+Name: dollarsAmount
+Value: 8,75
+===============
+Name: userLoginId
+Value: agialbarracin97@gmail.com
+===============
+Name: searchInput
+Value: loco
+===============
+Name: signup-username
+Value: PatentadoGG
+===============
+Name: profile-account-info-setting__displayname-input
+Value: PatentadoGG
+===============
+Name: email
+Value: fer_albarracin@hotmail.com
+===============
+Name: nickname
+Value: GLEWIX
+===============
+Name: login
+Value: fer_albarracin99@hotmail.com
+===============
+Name: usuarioLink
+Value: j358952004
+===============
+Name: numeroDocumento
+Value: 68508885
+===============
+Name: numeroDocumento
+Value: 6850885
+===============
+Name: email
+Value: max-saimon@hotmail.com
+===============
+Name: identifier
+Value: rocketsmurfuno@gmail.com
+===============
+Name: nombre
+Value: MГЎximo
+===============
+Name: apellido
+Value: Albarracin
+===============
+Name: nr_doc
+Value: 43659993
+===============
+Name: nuevo_te
+Value: 62072873
+===============
+Name: nuevo_mail
+Value: max-saimon@hotmail.com
+===============
+Name: envios_calle
+Value: Alem
+===============
+Name: envios_altura
+Value: 2095
+===============
+Name: envios_entrecalles
+Value: Martin fierro y montiel
+===============
+Name: busca_cliente_1
+Value: max-saimon@hotmail.com
+===============
+Name: busca_cliente_2
+Value: 25991580
+===============
+Name: busca_cliente_2
+Value: 43659993
+===============
+Name: numeroDeEnvioInput
+Value: 864149
+===============
+Name: numeroDeEnvioInput
+Value: 896149
+===============
+Name: profile-account-info-setting__email-input
+Value: max-saimon@hotmail.com
+===============
+Name: profile-account-info-setting__email-confirm
+Value: max-saimon@hotmail.com
+===============
+Name: ElectronicSignatureW8BenName
+Value: Maximo albarracin
+===============
+Name: NonUSPermPC
+Value: 1852
+===============
+Name: ForeignTINUnifiedUSInterview
+Value: 43659993
+===============
+Name: NonUSPermStateTextbox
+Value: buenos aires
+===============
+Name: IndividualPersonName
+Value: Maximo Albarracin
+===============
+Name: NonUSPermAddress1
+Value: alem 2095
+===============
+Name: ForeignTINUnifiedUSInterview
+Value: 20436599936
+===============
+Name: NonUSPermCity
+Value: alt brown
+===============
+Name: criterio
+Value: Teclado Mecanico Redragon Dark Avenger K568RGB
+===============
+Name: title
+Value: Mensaje de voz.
+===============
+Name: voice
+Value: Mia
+===============
+Name: line1
+Value: motienl 381
+===============
+Name: city
+Value: burzaco
+===============
+Name: postalCode
+Value: 1852
+===============
+Name: line1
+Value: alem 2095
+===============
+Name: city
+Value: alt brown
+===============
+Name: state
+Value: buenos aires
+===============
+Name: login_email
+Value: max-saimon@hotmail.com
+===============
+Name: searchInput
+Value: erase
+===============
+Name: searchInput
+Value: una voz
+===============
+Name: searchInput
+Value: mind
+===============
+Name: signup-username
+Value: MiniCoronitas
+===============
+Name: invite
+Value: https://skribbl.io/?x0MKnRGE7mi4
+===============
+Name: invite
+Value: https://skribbl.io/?Azbyzy0jDLOm
+===============
+Name: searchtext
+Value: MUGZRD'S AIR DRIBBLE GAUNTLET
+===============
+Name: code
+Value: t2nc
+===============
+Name: ForgotEmail
+Value: max-saimon@hotmail.com
+===============
+Name: username
+Value: TuPeorPesadilla_7u7
+===============
+Name: signupUsername
+Value: UbuKawaii
+===============
+Name: quantity
+Value: 1
+===============
+Name: Username
+Value: agialbarracin97@gmail.com
+===============
+Name: email
+Value: agialbarracin97@gmail.com
+===============
+Name: client-first-name
+Value: Francine Agata
+===============
+Name: client-last-name
+Value: Albarracin
+===============
+Name: client-document
+Value: 40888420
+===============
+Name: client-phone1
+Value: 11
+===============
+Name: client-phone3
+Value: 1536265603
+===============
+Name: client-first-name
+Value: Walter Rafael
+===============
+Name: client-document
+Value: 25991580
+===============
+Name: client-phone3
+Value: 27322580
+===============
+Name: form_crear_usuario[usuario]
+Value: PPIRIS0022@GMAIL.COM
+===============
+Name: form_crear_usuario[apellido]
+Value: PIRIS
+===============
+Name: form_crear_usuario[nombres]
+Value: FLAVIA PAOLA
+===============
+Name: form_crear_usuario[nro_documento]
+Value: 29052629
+===============
+Name: usuario
+Value: PPIRIS0022@GMAIL.COM
+===============
+Name: usuario
+Value: ppiris0022@gmail.com
+===============
+Name: form_crear_usuario[usuario]
+Value: ppiris0022@gmail.com
+===============
+Name: form_crear_usuario[apellido]
+Value: piris
+===============
+Name: form_crear_usuario[nombres]
+Value: Flavia Paola
+===============
+Name: form_datos_adicionales[como_conocio_institucion]
+Value: vivo cerca y tengo conocidos que fueron ahi.
+===============
+Name: form_datos_principales[apellido_elegido]
+Value: piris
+===============
+Name: form_datos_principales[nombres_elegido]
+Value: paola
+===============
+Name: form_datos_principales[numero_cuil]
+Value: 27290526294
+===============
+Name: form_datos_principales[celular_caracteristica]
+Value: 11
+===============
+Name: form_datos_principales[celular_valor]
+Value: 67644564
+===============
+Name: form_datos_principales[fecha_nacimiento]
+Value: 16/09/1981
+===============
+Name: form_datos_principales[nro_pasap]
+Value: AAF774535
+===============
+Name: form_datos_personales[calle_per_lect]
+Value: Av. Oliver
+===============
+Name: form_datos_personales[numero_per_lect]
+Value: 772
+===============
+Name: form_datos_personales[cp_per_lect]
+Value: 1842
+===============
+Name: form_datos_personales[barrio_per_lec]
+Value: 9 de abril
+===============
+Name: form_datos_personales[te_per_lect]
+Value: 1167644564
+===============
+Name: form_datos_laborales[alu_trab_tarea]
+Value: trabajo en una empresa de digitalizacion en este momento clasificos documentos para publicarlos en la pagina de la afip.
+===============
+Name: form_datos_familiares[apellido_padre]
+Value: piris
+===============
+Name: form_datos_familiares[nombres_padre]
+Value: estanislao
+===============
+Name: form_datos_familiares[apellido_madre]
+Value: acuГ±a
+===============
+Name: form_datos_familiares[nombres_madre]
+Value: luciana
+===============
+Name: filtro_colegio-nombre"
+Value: media nro 5
+===============
+Name: form_turno[fecha]
+Value: 03/12/2021
+===============
+Name: form_datos_principales[loc_nac_descr]
+Value: Monte Grande, Buenos Aires, Argentina
+===============
+Name: filtro_colegio-nombre"
+Value: dr. rene favaloro
+===============
+Name: filtro_colegio-nombre"
+Value: DR. RENE FAVALORO
+===============
+Name: filtro_colegio-nombre"
+Value: E.E.S. Nro 5
+===============
+Name: filtro_titulo_sec-nombre"
+Value: bachiller
+===============
+Name: filtro_colegio-nombre"
+Value: rene favaloro
+===============
+Name: name
+Value: Glewi
+===============
+Name: id_number
+Value: 20-43659993-6
+===============
+Name: id_number
+Value: 20436599936
+===============
+Name: id_number
+Value: 20435699936
+===============
+Name: user_id
+Value: max-saimon@hotmail.com
+===============
+Name: name
+Value: Walter rafael Albarracin
+===============
+Name: zip_code
+Value: 1852
+===============
+Name: street_name
+Value: alem
+===============
+Name: street_number
+Value: 2095
+===============
+Name: between_street1
+Value: Martin fierro
+===============
+Name: between_street2
+Value: Montiel
+===============
+Name: phone
+Value: 011 62072873
+===============
+Name: cardholder_name
+Value: walter r albarracin
+===============
+Name: expiration_date
+Value: 10 / 26
+===============
+Name: last_name
+Value: albarracin
+===============
+Name: doc_number
+Value: 25.991.580
+===============
+Name: identifier
+Value: maximoalbarracin.4b@gmail.com
+===============
+Name: id_number
+Value: 20-43569993-6
+===============
+Name: keys
+Value: pasaporte
+===============
+Name: search
+Value: pasaporte
+===============
+Name: telefonoCodigoArea
+Value: 11
+===============
+Name: telefonoNumero
+Value: 62072873
+===============
+Name: form[Telefono_confirmar]
+Value: 1162072873
+===============
+Name: identifier
+Value: glewixz@gmail.com
+===============
+Name: fullname
+Value: MГЎximo
+===============
+Name: email_confirmation
+Value: max-saimon@hotmail.com

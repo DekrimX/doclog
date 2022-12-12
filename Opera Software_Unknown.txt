@@ -1,0 +1,61 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*    Telegram: https://t.me/REDLINESUPPORT    *
+***********************************************
+
+Name: email
+Value: mahmodmohmd2006@gmail.com
+===============
+Name: one-time-code
+Value: 858447
+===============
+Name: username
+Value: xN3NA3x
+===============
+Name: email_address
+Value: newmahmod2006@gmail.com
+===============
+Name: cm_first_name
+Value: mahmod
+===============
+Name: cm_last_name
+Value: mohamed
+===============
+Name: nexus_ccfield_1
+Value: 0544569108
+===============
+Name: new_billing_address[address][]
+Value: gell
+===============
+Name: new_billing_address[city]
+Value: rak
+===============
+Name: new_billing_address[postalCode]
+Value: 808
+===============
+Name: answer
+Value: 2
+===============
+Name: user
+Value: n3na3
+===============
+Name: user
+Value: na3na3
+===============
+Name: psnId
+Value: vvhbvv
+===============
+Name: Input.Email
+Value: newmahmod2006@gmail.com
+===============
+Name: username
+Value: sd
+===============
+Name: username
+Value: sdwdada
